@@ -1,0 +1,5 @@
+<img
+  src={profile}
+  alt="Profile"
+  className="w-32 h-32 object-cover rounded-full mb-4 border-4 border-blue-500"
+/>
